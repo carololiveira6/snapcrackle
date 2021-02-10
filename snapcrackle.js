@@ -30,7 +30,6 @@ function primo(x) {
 }
 
 function snapCracklePrime(maxValue) {
-    debugger
     let str = ''
     for (let i = 1; i <= maxValue; i++) {
         if (i % 2 === 0) {
