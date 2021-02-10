@@ -59,7 +59,5 @@ function snapCracklePrime(maxValue) {
     return str
 }
 
-// console.log(snapCrackle(12))
+console.log(snapCrackle(12))
 console.log(snapCracklePrime(15))
-// Snap, Prime, SnapPrime, 4, SnapCracklePrime, 6, SnapPrime, 8, Snap, Crackle, SnapPrime, 12, SnapPrime, 14, SnapCrackle,
-
